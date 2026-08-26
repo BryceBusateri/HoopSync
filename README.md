@@ -1,2 +1,0 @@
-# HoopSync
-HoopSync Support
